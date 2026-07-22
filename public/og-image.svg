@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#f7f6f3"/>
+  <rect width="1200" height="630" fill="url(#mesh)" opacity="0.8"/>
+  <text x="80" y="280" fill="#1a2332" font-family="system-ui,sans-serif" font-size="72" font-weight="600">FolsomChat</text>
+  <text x="80" y="360" fill="#5c6578" font-family="system-ui,sans-serif" font-size="36">Everything happening in Folsom. One place.</text>
+  <rect x="80" y="420" width="56" height="56" rx="14" fill="url(#logoGrad)"/>
+  <text x="108" y="455" text-anchor="middle" fill="white" font-family="system-ui,sans-serif" font-size="20" font-weight="700">FC</text>
+  <ellipse cx="950" cy="420" rx="200" ry="60" fill="#2563a8" fill-opacity="0.2"/>
+  <path d="M750 350 L850 300 L950 330 L1050 280 L1100 300" stroke="#c4962c" stroke-width="4" stroke-dasharray="12 8" opacity="0.5"/>
+  <defs>
+    <linearGradient id="logoGrad" x1="80" y1="420" x2="136" y2="476" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563a8"/>
+      <stop offset="1" stop-color="#1a4d7a"/>
+    </linearGradient>
+    <radialGradient id="mesh" cx="0.5" cy="0.3" r="0.7">
+      <stop offset="0%" stop-color="#2563a8" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#c4962c" stop-opacity="0.05"/>
+    </radialGradient>
+  </defs>
+</svg>
